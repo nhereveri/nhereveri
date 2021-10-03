@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
+- 🔭 I’m currently working on 
+- 📫 How to reach me: [nelson AT hereveri.cl](mailto:nelson@hereveri.cl)
+
 <!--
 **nhereveri/nhereveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
