@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [Application for managing student records and their administrative procedures](https://newentun.app).
 - 📫 How to reach me: [nelson AT hereveri.cl](mailto:nelson@hereveri.cl)
 
 <!--
