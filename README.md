@@ -1,4 +1,4 @@
-# Bienvenida/o
+# Welcome to my code
 
 - 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
 - 🔭 I’m currently working on [Application for managing student records and their administrative procedures](https://newentun.app).
