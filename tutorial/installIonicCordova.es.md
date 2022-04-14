@@ -123,7 +123,7 @@ gradle -v
 
 ## Variables de ambiente
 
-Ya que todo parece funcionar hasta ahora, solo nos queda instalar las variables de ambiente para que estas se carguen al iniciar una terminal. Para ello puedes especificarles en tu archivo de usuario, `~/.bashrc` o `~/.zshrc`, o globalmente, `/etc/bashrc` o `/etc/zshrc`. Personalmente prefiero hacerlo globalmente para que así las aplicaciones puedan acceder a estos archivos sin problemas. En cualquier caso dependerá de la shel que uses actualmente, la variable `$SHELL` indica la ruta actual de tu shell.
+Ya que todo parece funcionar hasta ahora, solo nos queda instalar las variables de ambiente para que estas se carguen al iniciar una terminal. Para ello puedes especificarles en tu archivo de usuario, `~/.bashrc` o `~/.zshrc`, o globalmente, `/etc/bashrc` o `/etc/zshrc`. Personalmente prefiero hacerlo globalmente para que así las aplicaciones puedan acceder a estos archivos sin problemas. En cualquier caso dependerá de la shell que uses actualmente, la variable `$SHELL` indica la ruta actual de esta.
 
 ```sh
 echo $SHELL
