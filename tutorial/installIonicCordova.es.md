@@ -14,7 +14,7 @@
 - Java SDK 15
 - Android command line tools
 - Gradle 7
-- Android Studio (optional)
+- Android Studio (opcional)
 
 ## Directorio de instalaciones
 
@@ -43,7 +43,6 @@ cd /usr/local
 curl -o ~/Downloads/nodejs.tar.gz https://nodejs.org/dist/v17.9.0/node-v17.9.0-darwin-x64.tar.gz
 tar xf ~/Downloads/nodejs.tar.gz
 mv node-v17.9.0-darwin-x64 nodejs
-rm -f node-v17.9.0-darwin-x64.tar.gz
 PATH=/usr/local/nodejs/bin:${PATH}
 npm -g update npm@latest
 ```
@@ -138,7 +137,7 @@ echo $SHELL
 sudo nano /etc/zshrc
 ```
 
-En cualquier caso debes agregar las siguientes líneas tal como lo hemos hecho anteriormente.
+En cualquier caso debes agregar las siguientes líneas tal como lo hemos hecho anteriormente para luego ser definidas al abrir una nueva terminal.
 
 ```sh
 export JAVA_HOME=/usr/local/jdk-15.0.2.jdk/Contents/Home
