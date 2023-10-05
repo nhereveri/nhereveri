@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/nhereveri/nhereveri/main/assets/styles.css" />
+<link rel="stylesheet" type="text/css" href="https://hereveri.cl/assets/styles.css" />
 
 # Welcome to my code
 
