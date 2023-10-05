@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="assets/styles.css" />
+
 # Welcome to my code
 
 - 🌱 I’m currently develop in [SwiftUI](https://developer.apple.com/xcode/swiftui/).
